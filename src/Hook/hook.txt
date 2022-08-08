@@ -14,7 +14,7 @@ The next phase in the lifecycle is when a component is removed from the DOM, or 
                 using context hook you can directly sent data to a component a to d ,a to c and etc.
 4.use ref = use for changing element styles.
 5.use reducer = reducer and use state hook are same but use reducer hook allows custom logic.
-6.use custom = this hook is memoarized hook .it's stop unnessery rendering.it's
+6.use callback = this hook is memoarized hook .it's stop unnessery rendering.it's
                return memoarized function.
 7.use Memo = use memo and custom hhok are similar but memo give a memoarized value.
                it's run only on dependencies update
